@@ -1,6 +1,7 @@
 {
   "Assembly": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
   "GUID": "4A4742B02B8D4D3DA7106F1F066901E3FFFFFFFF",
+  "Tag": "J3HzKWxkl7Xzw5iWazSKLkC8ldP3WIocu0IVFt08u24=",
   "Types": [
     {
       "Members": [
@@ -24,7 +25,7 @@
         },
         {
           "DocsId": "M:Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckRegistration.#ctor(System.String,Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck,System.Nullable{Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus},System.Collections.Generic.IEnumerable{System.String},System.Nullable{System.TimeSpan})",
-          "SourceLink": "https://github.com/dotnet/aspnetcore/blob/c9e3996173cec136bc2e9f3b4ec45f2a323b1d63/src/HealthChecks/Abstractions/src/HealthCheckRegistration.cs#L16707566C0-L71C6"
+          "SourceLink": "https://github.com/dotnet/aspnetcore/blob/c9e3996173cec136bc2e9f3b4ec45f2a323b1d63/src/HealthChecks/Abstractions/src/HealthCheckRegistration.cs#L56C5-L71C6"
         },
         {
           "DocsId": "M:Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckRegistration.#ctor(System.String,System.Func{System.IServiceProvider,Microsoft.Extensions.Diagnostics.HealthChecks.IHealthCheck},System.Nullable{Microsoft.Extensions.Diagnostics.HealthChecks.HealthStatus},System.Collections.Generic.IEnumerable{System.String})",

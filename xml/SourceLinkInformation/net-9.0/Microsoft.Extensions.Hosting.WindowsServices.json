@@ -1,6 +1,7 @@
 {
   "Assembly": "Microsoft.Extensions.Hosting.WindowsServices",
   "GUID": "2DCC90BC87364E9FAA29DE783347B839FFFFFFFF",
+  "Tag": "J3HzKWxkl7Xzw5iWazSKLkC8ldP3WIocu0IVFt08u24=",
   "Types": [
     {
       "Members": [
@@ -10,7 +11,7 @@
         },
         {
           "DocsId": "M:Microsoft.Extensions.Hosting.WindowsServiceLifetimeHostBuilderExtensions.UseWindowsService(Microsoft.Extensions.Hosting.IHostBuilder,System.Action{Microsoft.Extensions.Hosting.WindowsServiceLifetimeOptions})",
-          "SourceLink": "https://github.com/dotnet/runtime/blob/d0d6fed6c0eedd962ddc0f68554682064e9e11ca/src/libraries/Microsoft.Extensions.Hosting.WindowsServices/src/WindowsServiceLifetimeHostBuilderExtensions.cs#L16707566C0-L57C32"
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d0d6fed6c0eedd962ddc0f68554682064e9e11ca/src/libraries/Microsoft.Extensions.Hosting.WindowsServices/src/WindowsServiceLifetimeHostBuilderExtensions.cs#L47C13-L57C32"
         },
         {
           "DocsId": "M:Microsoft.Extensions.Hosting.WindowsServiceLifetimeHostBuilderExtensions.AddWindowsService(Microsoft.Extensions.DependencyInjection.IServiceCollection)",

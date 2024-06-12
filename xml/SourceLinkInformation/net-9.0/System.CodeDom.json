@@ -1,6 +1,7 @@
 {
   "Assembly": "System.CodeDom",
   "GUID": "2527287A175D470AB956B0E8DE006171FFFFFFFF",
+  "Tag": "J3HzKWxkl7Xzw5iWazSKLkC8ldP3WIocu0IVFt08u24=",
   "Types": [
     {
       "Members": [
@@ -3094,7 +3095,7 @@
         },
         {
           "DocsId": "M:System.CodeDom.Compiler.CodeGenerator.OutputDirection(System.CodeDom.FieldDirection)",
-          "SourceLink": "https://github.com/dotnet/runtime/blob/d0d6fed6c0eedd962ddc0f68554682064e9e11ca/src/libraries/System.CodeDom/src/System/CodeDom/Compiler/CodeGenerator.cs#L16707566C0-L1064C10"
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d0d6fed6c0eedd962ddc0f68554682064e9e11ca/src/libraries/System.CodeDom/src/System/CodeDom/Compiler/CodeGenerator.cs#L1058C21-L1064C10"
         },
         {
           "DocsId": "M:System.CodeDom.Compiler.CodeGenerator.OutputFieldScopeModifier(System.CodeDom.MemberAttributes)",
@@ -3134,7 +3135,7 @@
         },
         {
           "DocsId": "M:System.CodeDom.Compiler.CodeGenerator.OutputOperator(System.CodeDom.CodeBinaryOperatorType)",
-          "SourceLink": "https://github.com/dotnet/runtime/blob/d0d6fed6c0eedd962ddc0f68554682064e9e11ca/src/libraries/System.CodeDom/src/System/CodeDom/Compiler/CodeGenerator.cs#L16707566C0-L1290C10"
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d0d6fed6c0eedd962ddc0f68554682064e9e11ca/src/libraries/System.CodeDom/src/System/CodeDom/Compiler/CodeGenerator.cs#L1239C21-L1290C10"
         },
         {
           "DocsId": "M:System.CodeDom.Compiler.CodeGenerator.OutputParameters(System.CodeDom.CodeParameterDeclarationExpressionCollection)",

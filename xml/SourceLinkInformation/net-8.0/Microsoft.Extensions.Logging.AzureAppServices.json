@@ -1,6 +1,7 @@
 {
   "Assembly": "Microsoft.Extensions.Logging.AzureAppServices",
   "GUID": "0127C414C56A4D3382735B1F7DA04971FFFFFFFF",
+  "Tag": "J3HzKWxkl7Xzw5iWazSKLkC8ldP3WIocu0IVFt08u24=",
   "Types": [
     {
       "Members": [
@@ -138,7 +139,7 @@
       "Members": [
         {
           "DocsId": "M:Microsoft.Extensions.Logging.AzureAppServices.BlobLoggerProvider.#ctor(Microsoft.Extensions.Options.IOptionsMonitor{Microsoft.Extensions.Logging.AzureAppServices.AzureBlobLoggerOptions})",
-          "SourceLink": "https://github.com/dotnet/aspnetcore/blob/c9e3996173cec136bc2e9f3b4ec45f2a323b1d63/src/Logging.AzureAppServices/src/BlobLoggerProvider.cs#L16707566C0-L38C6"
+          "SourceLink": "https://github.com/dotnet/aspnetcore/blob/c9e3996173cec136bc2e9f3b4ec45f2a323b1d63/src/Logging.AzureAppServices/src/BlobLoggerProvider.cs#L32C11-L38C6"
         }
       ],
       "DocsId": "T:Microsoft.Extensions.Logging.AzureAppServices.BlobLoggerProvider",

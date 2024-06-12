@@ -1,6 +1,7 @@
 {
   "Assembly": "Microsoft.Extensions.Localization",
   "GUID": "4D9DE34C1D4C44C68DE1DC7492C0DC89FFFFFFFF",
+  "Tag": "J3HzKWxkl7Xzw5iWazSKLkC8ldP3WIocu0IVFt08u24=",
   "Types": [
     {
       "Members": [
@@ -108,7 +109,7 @@
         },
         {
           "DocsId": "M:Microsoft.Extensions.Localization.ResourceManagerStringLocalizerFactory.Create(System.String,System.String)",
-          "SourceLink": "https://github.com/dotnet/aspnetcore/blob/c9e3996173cec136bc2e9f3b4ec45f2a323b1d63/src/Localization/Localization/src/ResourceManagerStringLocalizerFactory.cs#L16707566C0-L163C12"
+          "SourceLink": "https://github.com/dotnet/aspnetcore/blob/c9e3996173cec136bc2e9f3b4ec45f2a323b1d63/src/Localization/Localization/src/ResourceManagerStringLocalizerFactory.cs#L153C9-L163C12"
         },
         {
           "DocsId": "M:Microsoft.Extensions.Localization.ResourceManagerStringLocalizerFactory.CreateResourceManagerStringLocalizer(System.Reflection.Assembly,System.String)",

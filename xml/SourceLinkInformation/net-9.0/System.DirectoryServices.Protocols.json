@@ -1,6 +1,7 @@
 {
   "Assembly": "System.DirectoryServices.Protocols",
   "GUID": "B23B91CBA29E420CA77505EF3AB90DB0FFFFFFFF",
+  "Tag": "J3HzKWxkl7Xzw5iWazSKLkC8ldP3WIocu0IVFt08u24=",
   "Types": [
     {
       "Members": [
@@ -1805,7 +1806,7 @@
         },
         {
           "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.Finalize",
-          "SourceLink": "https://github.com/dotnet/runtime/blob/d0d6fed6c0eedd962ddc0f68554682064e9e11ca/src/libraries/System.DirectoryServices.Protocols/src/System/DirectoryServices/Protocols/ldap/LdapConnection.cs#L100C30-L16707566C0"
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d0d6fed6c0eedd962ddc0f68554682064e9e11ca/src/libraries/System.DirectoryServices.Protocols/src/System/DirectoryServices/Protocols/ldap/LdapConnection.cs#L100C30-L100C44"
         },
         {
           "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.SendRequest(System.DirectoryServices.Protocols.DirectoryRequest)",

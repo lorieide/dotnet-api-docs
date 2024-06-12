@@ -1,6 +1,7 @@
 {
   "Assembly": "Microsoft.Extensions.DependencyInjection.Abstractions",
   "GUID": "6DB970BE451E4145B1B6A0C89C81F71EFFFFFFFF",
+  "Tag": "J3HzKWxkl7Xzw5iWazSKLkC8ldP3WIocu0IVFt08u24=",
   "Types": [
     {
       "Members": [
@@ -495,7 +496,7 @@
         },
         {
           "DocsId": "M:Microsoft.Extensions.DependencyInjection.ServiceDescriptor.#ctor(System.Type,System.Object,System.Func{System.IServiceProvider,System.Object,System.Object},Microsoft.Extensions.DependencyInjection.ServiceLifetime)",
-          "SourceLink": "https://github.com/dotnet/runtime/blob/d0d6fed6c0eedd962ddc0f68554682064e9e11ca/src/libraries/Microsoft.Extensions.DependencyInjection.Abstractions/src/ServiceDescriptor.cs#L16707566C0-L127C10"
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d0d6fed6c0eedd962ddc0f68554682064e9e11ca/src/libraries/Microsoft.Extensions.DependencyInjection.Abstractions/src/ServiceDescriptor.cs#L112C15-L127C10"
         },
         {
           "DocsId": "M:Microsoft.Extensions.DependencyInjection.ServiceDescriptor.ToString",
